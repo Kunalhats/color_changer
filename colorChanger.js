@@ -1,4 +1,3 @@
-# color_changer
 let buttons=document.querySelectorAll('.button')
 
 let body=document.querySelector('body')
